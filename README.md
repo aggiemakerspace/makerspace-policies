@@ -11,3 +11,4 @@
 1. The maximum print time is 6 hours.
 2. Print time cannot extend beyond makerspace operating hours.
 3. **NO** models intended for use, in whole or in part, with a firearm, blade, or other weapon intended for personal use. These prints are only allowed for sanctioned and supervised school projects. Documentation including the supervising professor may be required.
+4. **NO** models intended for use, in whole or in part, for the use, storage, or manufacturing of illegal drugs.
