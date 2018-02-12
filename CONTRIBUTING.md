@@ -12,3 +12,7 @@ All MakerSpace activities are subject to the [MakerSpace Code of Conduct and Pol
 #### Process
 
 Aggie MakerSpace repositories are all protected to maintain the highest quality of content for all makers. However, students are HIGHLY encouraged to submit content by [forking](https://help.github.com/articles/fork-a-repo/) and MakerSpace repository, like this one and [opening a pull request](https://help.github.com/articles/about-pull-requests/)!
+
+#### Licensing
+
+All content hosted by the Aggie MakerSpace is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) and contributors agree to any contributions they make being published under the terms of this license.
